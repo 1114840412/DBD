@@ -54,9 +54,9 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 proxy-providers:
   机场A: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fapi-hy.02000.xin%2Fadf0b1976c43e82dab91f7c6e3b4d258%3Ftoken%3D8ba8406612be6ce39a3394dcc81d839e&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[A] '}}
   机场B: {<<: *PProviders, url: 'https://baigou.kkhhddnn.cn/baidu666?token=9d66c53f516d31b0950ef1f5accbd825', override: {additional-prefix: '[B] '}}
-  机场C: {<<: *PProviders, url: '订阅03', override: {additional-prefix: '[C] '}}
-  机场D: {<<: *PProviders, url: '订阅04', override: {additional-prefix: '[D] '}}
-  机场E: {<<: *PProviders, url: '订阅05', override: {additional-prefix: '[E] '}}
+  机场C: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcn.mfxy.store%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D2cd2c05fb6500edd4210b46e3a597fdf%26flag%3Dshadowrocket&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[C] '}}
+  机场D: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcheckhere.top%2Flink%2FWS54d43fPLxEpRog%3Flist%3Dshadowrocket&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[D] '}}
+  机场E: {<<: *PProviders, url: 'https://api-hy.02000.xin/adf0b1976c43e82dab91f7c6e3b4d258?token=8ba8406612be6ce39a3394dcc81d839e', override: {additional-prefix: '[E] '}}
   机场F: {<<: *PProviders, url: '订阅06', override: {additional-prefix: '[F] '}}
   机场G: {<<: *PProviders, url: '订阅07', override: {additional-prefix: '[G] '}}
   机场H: {<<: *PProviders, url: '订阅08', override: {additional-prefix: '[H] '}}
