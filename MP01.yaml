@@ -66,7 +66,7 @@ proxy-providers:
   机场L: {<<: *PProviders, url: 'https://s1.byte77.com/api/v1/client/subscribe?token=6e45a26c8dc60b9801ac0e65e643477d', override: {additional-prefix: '[L] '}}
   机场M: {<<: *PProviders, url: 'https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=56df427d30f169ab0f52ae13634affa8', override: {additional-prefix: '[M] '}}
   机场N: {<<: *PProviders, url: 'https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=2a989fd80d73f8f602d81c047e78b868', override: {additional-prefix: '[N] '}}
-  机场O: {<<: *PProviders, url: '', override: {additional-prefix: '[O] '}}
+  机场O: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[O] '}}
   机场P: {<<: *PProviders, url: '', override: {additional-prefix: '[P] '}}
   机场Q: {<<: *PProviders, url: '', override: {additional-prefix: '[Q] '}}
   机场R: {<<: *PProviders, url: '', override: {additional-prefix: '[R] '}}
