@@ -76,7 +76,7 @@ proxy-providers:
   机场V: {<<: *PProviders, url: 'https://link.dingyueapi.net/api/v1/client/subscribe?token=3a27110128832cdc2cc52a81f4de5824', override: {additional-prefix: '[V] '}}
   机场W: {<<: *PProviders, url: '订阅23', override: {additional-prefix: '[W] '}}
   机场X: {<<: *PProviders, url: '订阅24', override: {additional-prefix: '[X] '}}        
-  机场Y: {<<: *PProviders, url: '订阅25', override: {additional-prefix: '[Y] '}}
+  机场Y: {<<: *PProviders, url: 'https://v1.mk/XoYJLr0', override: {additional-prefix: '[Y] '}}
   机场Z: {<<: *PProviders, url: 'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml', override: {additional-prefix: '[Z] '}}
 
 # 全局配置
