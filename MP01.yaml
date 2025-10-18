@@ -77,7 +77,7 @@ proxy-providers:
   机场W: {<<: *PProviders, url: '订阅23', override: {additional-prefix: '[W] '}}
   机场X: {<<: *PProviders, url: '订阅24', override: {additional-prefix: '[X] '}}        
   机场Y: {<<: *PProviders, url: '订阅25', override: {additional-prefix: '[Y] '}}
-  机场Z: {<<: *PProviders, url: '订阅26', override: {additional-prefix: '[Z] '}}
+  机场Z: {<<: *PProviders, url: 'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml', override: {additional-prefix: '[Z] '}}
 
 # 全局配置
 port: 7890
