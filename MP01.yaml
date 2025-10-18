@@ -66,14 +66,14 @@ proxy-providers:
   机场L: {<<: *PProviders, url: 'https://s1.byte77.com/api/v1/client/subscribe?token=6e45a26c8dc60b9801ac0e65e643477d', override: {additional-prefix: '[L] '}}
   机场M: {<<: *PProviders, url: 'https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=56df427d30f169ab0f52ae13634affa8', override: {additional-prefix: '[M] '}}
   机场N: {<<: *PProviders, url: 'https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=2a989fd80d73f8f602d81c047e78b868', override: {additional-prefix: '[N] '}}
-  机场O: {<<: *PProviders, url: 'https://wgffes.lobonet.cn/wdfs/heuy/mdet/?token=0ebd366852352d04df7bfdba0dbb608d', override: {additional-prefix: '[O] '}}
-  机场P: {<<: *PProviders, url: 'https://wgffes.lobonet.cn/wdfs/heuy/mdet/?token=2e75f6fa38e5b766d198d26cfce2ad0f', override: {additional-prefix: '[P] '}}
-  机场Q: {<<: *PProviders, url: 'https://wgffes.lobonet.cn/wdfs/heuy/mdet/?token=3db5921fe235027295bcbce821ee698e', override: {additional-prefix: '[Q] '}}
-  机场R: {<<: *PProviders, url: 'https://wgffes.lobonet.cn/wdfs/heuy/mdet/?token=79607f424a568bbeddd84df34d63d962', override: {additional-prefix: '[R] '}}
+  机场O: {<<: *PProviders, url: '', override: {additional-prefix: '[O] '}}
+  机场P: {<<: *PProviders, url: '', override: {additional-prefix: '[P] '}}
+  机场Q: {<<: *PProviders, url: '', override: {additional-prefix: '[Q] '}}
+  机场R: {<<: *PProviders, url: '', override: {additional-prefix: '[R] '}}
   机场S: {<<: *PProviders, url: 'https://sfj.sufujia.top/api/v1/client/subscribe?token=07be18a3002d2e6a4e316dfde08621c1', override: {additional-prefix: '[S] '}}
   机场T: {<<: *PProviders, url: 'https://fanyun.pro/api/v1/client/subscribe?token=83cbb8fd9126465514fcb348aa2a6ab0', override: {additional-prefix: '[T] '}}
   机场U: {<<: *PProviders, url: 'https://fanyun.pro/api/v1/client/subscribe?token=11d3b797ac5f7cb600d347d3cd666f7d', override: {additional-prefix: '[U] '}}
-  机场V: {<<: *PProviders, url: '订阅22', override: {additional-prefix: '[V] '}}
+  机场V: {<<: *PProviders, url: 'https://link.dingyueapi.net/api/v1/client/subscribe?token=3a27110128832cdc2cc52a81f4de5824', override: {additional-prefix: '[V] '}}
   机场W: {<<: *PProviders, url: '订阅23', override: {additional-prefix: '[W] '}}
   机场X: {<<: *PProviders, url: '订阅24', override: {additional-prefix: '[X] '}}        
   机场Y: {<<: *PProviders, url: '订阅25', override: {additional-prefix: '[Y] '}}
