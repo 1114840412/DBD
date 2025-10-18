@@ -62,7 +62,7 @@ proxy-providers:
   机场H: {<<: *PProviders, url: 'https://sub.popcorn.pics/popcorn/81da9062c7dba0648dc12934b8e8668f', override: {additional-prefix: '[H] '}}
   机场I: {<<: *PProviders, url: 'https://cfsub.pcbean.qzz.io/profiles/moontv', override: {additional-prefix: '[I] '}}
   机场J: {<<: *PProviders, url: 'https://fanyun.pro/api/v1/client/subscribe?token=185cb773dd8d5ae457650ea0ab5a3d88', override: {additional-prefix: '[J] '}}  
-  机场K: {<<: *PProviders, url: 'https://v1.mk/u1stvbB', override: {additional-prefix: '[K] '}}
+  机场K: {<<: *PProviders, url: 'https://fs.v2rayse.com/share/20251018/a9a4qk181r.yaml', override: {additional-prefix: '[K] '}}
   机场L: {<<: *PProviders, url: '订阅12', override: {additional-prefix: '[L] '}}
   机场M: {<<: *PProviders, url: '订阅13', override: {additional-prefix: '[M] '}}
   机场N: {<<: *PProviders, url: '订阅14', override: {additional-prefix: '[N] '}}
