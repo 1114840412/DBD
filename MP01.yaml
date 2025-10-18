@@ -60,7 +60,7 @@ proxy-providers:
   机场F: {<<: *PProviders, url: 'https://s1.byte77.com/api/v1/client/subscribe?token=ce8bef8c67c46cee338654c46945cc81', override: {additional-prefix: '[F] '}}
   机场G: {<<: *PProviders, url: 'https://yun-api.subcloud.xyz/sub?target=clash&url=https%3A%2F%2Fs1.trojanflare.one%2Fclashx%2F01737579-e23c-4f97-a580-c0a801d31581&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true', override: {additional-prefix: '[G] '}}
   机场H: {<<: *PProviders, url: 'https://sub.popcorn.pics/popcorn/81da9062c7dba0648dc12934b8e8668f', override: {additional-prefix: '[H] '}}
-  机场I: {<<: *PProviders, url: '订阅09', override: {additional-prefix: '[I] '}}
+  机场I: {<<: *PProviders, url: 'https://cfsub.pcbean.qzz.io/profiles/moontv', override: {additional-prefix: '[I] '}}
   机场J: {<<: *PProviders, url: '订阅10', override: {additional-prefix: '[J] '}}  
   机场K: {<<: *PProviders, url: '订阅11', override: {additional-prefix: '[K] '}}
   机场L: {<<: *PProviders, url: '订阅12', override: {additional-prefix: '[L] '}}
