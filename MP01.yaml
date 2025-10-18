@@ -62,7 +62,7 @@ proxy-providers:
   机场H: {<<: *PProviders, url: 'https://sub.popcorn.pics/popcorn/81da9062c7dba0648dc12934b8e8668f', override: {additional-prefix: '[H] '}}
   机场I: {<<: *PProviders, url: 'https://cfsub.pcbean.qzz.io/profiles/moontv', override: {additional-prefix: '[I] '}}
   机场J: {<<: *PProviders, url: 'https://fanyun.pro/api/v1/client/subscribe?token=185cb773dd8d5ae457650ea0ab5a3d88', override: {additional-prefix: '[J] '}}  
-  机场K: {<<: *PProviders, url: 'https://zh.momobaby.org/download/clash/ada92ef3a260ffee3ee4f1bdc2ea04a2259892a08605f5c0c00da01a87a2ce79?config_name=Config', override: {additional-prefix: '[K] '}}
+  机场K: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=hysteria2%3A%2F%2F7801c867-b767-4b6d-869d-14695820db30%40usny.gzcloud.shop%3A18043%3Fpeer%3Dusla2.gzcloud.shop%26insecure%3D1%26obfs%3Dsalamander%26obfs-password%3DZDQxZDhjZDk4ZjAwYjIwNA%3D%3D%26mport%3D10000-20000%23%25F0%259F%2587%25BA%25F0%259F%2587%25B8%25E7%25BE%258E%25E5%259B%25BD%25E7%25BA%25BD%25E7%25BA%25A6%25202T%25E6%25B5%2581%25E9%2587%258F%2F%25E6%259C%2588&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[K] '}}
   机场L: {<<: *PProviders, url: '订阅12', override: {additional-prefix: '[L] '}}
   机场M: {<<: *PProviders, url: '订阅13', override: {additional-prefix: '[M] '}}
   机场N: {<<: *PProviders, url: '订阅14', override: {additional-prefix: '[N] '}}
