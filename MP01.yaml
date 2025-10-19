@@ -68,7 +68,7 @@ proxy-providers:
   机场N: {<<: *PProviders, url: 'https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=2a989fd80d73f8f602d81c047e78b868', override: {additional-prefix: '[N] '}}
   机场O: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[O] '}}
   机场P: {<<: *PProviders, url: 'http://proxy.winniezz.top?token=gX_5YXsWTXXk96lKSBWqk2MNx2YR-Uy00qnI2J0l0M4', override: {additional-prefix: '[P] '}}
-  机场Q: {<<: *PProviders, url: '', override: {additional-prefix: '[Q] '}}
+  机场Q: {<<: *PProviders, url: 'https://lzsub.zzko.cn/ZZKOlpmkqGBzqHsr', override: {additional-prefix: '[Q] '}}
   机场R: {<<: *PProviders, url: '', override: {additional-prefix: '[R] '}}
   机场S: {<<: *PProviders, url: 'https://sfj.sufujia.top/api/v1/client/subscribe?token=07be18a3002d2e6a4e316dfde08621c1', override: {additional-prefix: '[S] '}}
   机场T: {<<: *PProviders, url: 'https://fanyun.pro/api/v1/client/subscribe?token=83cbb8fd9126465514fcb348aa2a6ab0', override: {additional-prefix: '[T] '}}
