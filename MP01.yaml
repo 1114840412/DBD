@@ -84,7 +84,7 @@ proxy-providers:
   机场AD: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Ffba02.fbsubcn01.cc%3A2096%2Fflydsubal%2Fsjn4joxjk4yprksm%3Fsub%3D2%26extend%3D1&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AD] '}}
   机场AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Ffba02.fbsubcn01.cc%3A2096%2Fflydsubal%2Fgvvztodyxvyplfkc%3Fsub%3D2%26extend%3D1&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
   机场AF: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Ffba02.fbsubcn01.cc%3A2096%2Fflydsubal%2Fckf8n8s0dfhv8xtz%3Fsub%3D2%26extend%3D1&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AF] '}}
-  机场AG: {<<: *PProviders, url: '', override: {additional-prefix: '[AG] '}}
+  机场AG: {<<: *PProviders, url: 'https://v1.mk/dEIWH7B', override: {additional-prefix: '[AG] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
