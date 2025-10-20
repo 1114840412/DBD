@@ -85,7 +85,7 @@ proxy-providers:
   机场AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fzrf.zrf.me%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
   机场AF: {<<: *PProviders, url: 'https://dash.djjc.cfd/api/v1/client/subscribe?token=10b74549757be16e2e04900ea1405733', override: {additional-prefix: '[AF] '}}
   机场AG: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/ec00af31152c7232c03811ad8a842c6a', override: {additional-prefix: '[AG] '}}
-  机场AF: {<<: *PProviders, url: 'https://sub.dmit.dpdns.org/share/sub/dingyue_Center_glados1year?token=d75zJ3YqbatIbr_1Hj9sh', override: {additional-prefix: '[AF] '}}
+  机场AH: {<<: *PProviders, url: 'https://sub.dmit.dpdns.org/share/sub/dingyue_Center_glados1year?token=d75zJ3YqbatIbr_1Hj9sh', override: {additional-prefix: '[AH] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
