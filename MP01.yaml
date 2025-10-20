@@ -65,7 +65,7 @@ proxy-providers:
   机场K: {<<: *PProviders, url: 'https://wow.dogss-host.store/api/v1/client/subscribe?token=3b34f8ec6833ea2766c1c478c3e55e20', override: {additional-prefix: '[K] '}}
   机场L: {<<: *PProviders, url: 'https://s1.byte77.com/api/v1/client/subscribe?token=6e45a26c8dc60b9801ac0e65e643477d', override: {additional-prefix: '[L] '}}
   机场M: {<<: *PProviders, url: 'https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=56df427d30f169ab0f52ae13634affa8', override: {additional-prefix: '[M] '}}
-  机场N: {<<: *PProviders, url: 'https://apple-bing.sbs/s/fe11b29d11119cb5735198eb2307daf6?burn=GVpovy8fsCpjNGRb', override: {additional-prefix: '[N] '}}
+  机场N: {<<: *PProviders, url: 'https://apple-bing.sbs/s/fe11b29d11119cb5735198eb2307daf6?burn=N3t6I7efqewJeM9O', override: {additional-prefix: '[N] '}}
   机场O: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[O] '}}
   机场P: {<<: *PProviders, url: 'http://proxy.winniezz.top?token=gX_5YXsWTXXk96lKSBWqk2MNx2YR-Uy00qnI2J0l0M4', override: {additional-prefix: '[P] '}}
   机场Q: {<<: *PProviders, url: 'https://lzsub.zzko.cn/ZZKOlpmkqGBzqHsr', override: {additional-prefix: '[Q] '}}
