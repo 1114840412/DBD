@@ -86,6 +86,7 @@ proxy-providers:
   机场AF: {<<: *PProviders, url: 'https://dash.djjc.cfd/api/v1/client/subscribe?token=10b74549757be16e2e04900ea1405733', override: {additional-prefix: '[AF] '}}
   机场AG: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/ec00af31152c7232c03811ad8a842c6a', override: {additional-prefix: '[AG] '}}
   机场AH: {<<: *PProviders, url: 'https://sub.dmit.dpdns.org/share/sub/dingyue_Center_glados1year?token=d75zJ3YqbatIbr_1Hj9sh', override: {additional-prefix: '[AH] '}}
+  机场AI: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/74297a5d6bde7026a43324679bb9417b', override: {additional-prefix: '[AI] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
