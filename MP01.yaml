@@ -52,7 +52,7 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 # 远程订阅组
 # 注意：请提供您的机场订阅链接，每个链接一行，并为每个机场命名，末尾的[A]为每个节点添加机场名称前缀，可自定义
 proxy-providers:
-  机场A: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fapi-hy.02000.xin%2Fadf0b1976c43e82dab91f7c6e3b4d258%3Ftoken%3D8ba8406612be6ce39a3394dcc81d839e&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[A] '}}
+  机场A: {<<: *PProviders, url: '', override: {additional-prefix: '[A] '}}
   机场B: {<<: *PProviders, url: 'https://baigou.kkhhddnn.cn/baidu666?token=9d66c53f516d31b0950ef1f5accbd825', override: {additional-prefix: '[B] '}}
   机场C: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcn.mfxy.store%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D2cd2c05fb6500edd4210b46e3a597fdf%26flag%3Dshadowrocket&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[C] '}}
   机场D: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcheckhere.top%2Flink%2FWS54d43fPLxEpRog%3Flist%3Dshadowrocket&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[D] '}}
