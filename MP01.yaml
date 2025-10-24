@@ -89,6 +89,12 @@ proxy-providers:
   机场AI: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/74297a5d6bde7026a43324679bb9417b', override: {additional-prefix: '[AI] '}}
   机场AJ: {<<: *PProviders, url: 'https://v1.mk/A2WFY1i', override: {additional-prefix: '[AJ] '}}
   机场AK: {<<: *PProviders, url: 'https://zh.momobaby.org/download/clash/1d1e4472f39a060497beaa62e68ca090b49b058611232e485e88d8ca00df4be3?config_name=LiNigori369-2', override: {additional-prefix: '[AK] '}}
+  机场AL: {<<: *PProviders, url: 'https://paste.myconan.net/614692-f64dc482.txt', override: {additional-prefix: '[AL] '}}
+  机场AM: {<<: *PProviders, url: 'https://paste.myconan.net/614693-22cafbef.txt', override: {additional-prefix: '[AM] '}}
+  机场AN: {<<: *PProviders, url: 'https://paste.myconan.net/614694-a4c257b1.txt', override: {additional-prefix: '[AN] '}}
+  机场AO: {<<: *PProviders, url: 'https://paste.myconan.net/614695-18708855.txt', override: {additional-prefix: '[AO] '}}
+  机场AP: {<<: *PProviders, url: 'https://paste.myconan.net/614696-8a2f2b49.txt', override: {additional-prefix: '[AP] '}}
+  机场AQ: {<<: *PProviders, url: 'https://paste.myconan.net/614698-e274bc27.txt', override: {additional-prefix: '[AQ] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
