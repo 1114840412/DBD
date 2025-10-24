@@ -98,7 +98,7 @@ proxy-providers:
   机场AR: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=86f0edc5e6dd9be0baba5f3232bd4fa5', override: {additional-prefix: '[AR] '}}
   机场AS: {<<: *PProviders, url: 'https://www.selom.xyz/api/v1/client/subscribe?token=67c236e6e526cbf93afcc4b1a2cc2575', override: {additional-prefix: '[AS] '}}
   机场AT: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=138d50afae8de679a8d73214f070d4ba', override: {additional-prefix: '[AT] '}}
-  机场AU: {<<: *PProviders, url: 'https://s.winniezz.top/hu9I7L', override: {additional-prefix: '[AU] '}}
+  机场AU: {<<: *PProviders, url: '', override: {additional-prefix: '[AU] '}}
   机场AV: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=ss%3A%2F%2FYWVzLTI1Ni1nY206R0g4bzdFZFUySkM0ZndaakBvY3RvLnN6LmhrLjEuYmJiYmJiLmNsb3VkOjE4MDM3%23%25F0%259F%2587%25AD%25F0%259F%2587%25B0%2520%25E9%25A6%2599%25E6%25B8%25AF%2520OCTO%2520%255BShenzhen%255D&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AV] '}}
 # 全局配置
 port: 7890
