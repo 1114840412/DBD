@@ -105,6 +105,11 @@ proxy-providers:
   机场AY: {<<: *PProviders, url: 'https://www.paofusub2.com/link/YeotrRCpJx3RYleU?clash=1', override: {additional-prefix: '[AY] '}}
   机场AZ: {<<: *PProviders, url: 'https://www.skssugetcc.org/ccnget/a5OX7ABZCMUJ3Pvcv41WojMSpjVKIKs8qpMhWzzrp0ybiD4Vv5gaP0O51AVotFFt?b2m4=1', override: {additional-prefix: '[AZ] '}}
   机场BA: {<<: *PProviders, url: 'https://zhuzhuzhu.whtjdasha.com/api/v1/client/subscribe?token=a6e206b0b3017d4158899e5d4ada806d', override: {additional-prefix: '[BA] '}}
+  机场BB: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=936178a2c6cf520e0f51d45a8ca0d30d', override: {additional-prefix: '[BB] '}}
+  机场BC: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=95cac6e470ef2aa23abb8b732f313176', override: {additional-prefix: '[BC] '}}
+  机场BD: {<<: *PProviders, url: 'https://su.gwzxwk.com/api/v1/client/subscribe?token=c9ab9ea6efde376ef7e548989fa7ee06', override: {additional-prefix: '[BD] '}}
+  机场BE: {<<: *PProviders, url: 'https://d1.dlsdist.net/api/v1/client/subscribe?token=08e83a5862ede37827c8f4a66711695a', override: {additional-prefix: '[BE] '}}
+  机场BF: {<<: *PProviders, url: 'http://8.134.181.161:12580/md5/t465ZofVbZSNA6Fs?clash=1', override: {additional-prefix: '[BF] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
