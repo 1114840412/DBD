@@ -103,6 +103,8 @@ proxy-providers:
   机场AW: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fierboryt.spphhnhg.top%2Flink%2FWqkOeM4E8SrbcQOF%3Fsub%3D3&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AW] '}}
   机场AX: {<<: *PProviders, url: 'https://dler.cloud/api/v3/download.getFile/ujVQKljB9oynSdg8P0rEH5FX?mu=smart&lv=2%7C3.gif', override: {additional-prefix: '[AX] '}}
   机场AY: {<<: *PProviders, url: 'https://www.paofusub2.com/link/YeotrRCpJx3RYleU?clash=1', override: {additional-prefix: '[AY] '}}
+  机场AZ: {<<: *PProviders, url: 'https://www.skssugetcc.org/ccnget/a5OX7ABZCMUJ3Pvcv41WojMSpjVKIKs8qpMhWzzrp0ybiD4Vv5gaP0O51AVotFFt?b2m4=1', override: {additional-prefix: '[AZ] '}}
+  机场BA: {<<: *PProviders, url: 'https://zhuzhuzhu.whtjdasha.com/api/v1/client/subscribe?token=a6e206b0b3017d4158899e5d4ada806d', override: {additional-prefix: '[BA] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
