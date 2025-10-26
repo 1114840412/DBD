@@ -110,6 +110,7 @@ proxy-providers:
   机场BD: {<<: *PProviders, url: 'https://su.gwzxwk.com/api/v1/client/subscribe?token=c9ab9ea6efde376ef7e548989fa7ee06', override: {additional-prefix: '[BD] '}}
   机场BE: {<<: *PProviders, url: 'https://d1.dlsdist.net/api/v1/client/subscribe?token=08e83a5862ede37827c8f4a66711695a', override: {additional-prefix: '[BE] '}}
   机场BF: {<<: *PProviders, url: 'http://8.134.181.161:12580/md5/t465ZofVbZSNA6Fs?clash=1', override: {additional-prefix: '[BF] '}}
+  机场BG: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsl.zzxi.de%2Fshanlian%2F1dcbc45b123843fbbf59cfbd722291d3&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BG] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
