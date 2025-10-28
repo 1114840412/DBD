@@ -123,12 +123,12 @@ proxy-providers:
   BQ: {<<: *PProviders, url: 'https://www.yivpn.com/s/c7ad60edd7426c3612b3864eb0a30c21', override: {additional-prefix: '[BQ] '}}
   BR: {<<: *PProviders, url: 'https://www.yivpn.com/s/f23889fdf9d7bd5f22771e6ac1137000', override: {additional-prefix: '[BR] '}}
   BS: {<<: *PProviders, url: 'https://www.yivpn.com/s/9c6f0d155249750cfab5f71ebcc8566f', override: {additional-prefix: '[BS] '}}
-  BT: {<<: *PProviders, url: '', override: {additional-prefix: '[BT] '}}
-  BU: {<<: *PProviders, url: '', override: {additional-prefix: '[BU] '}}
-  BV: {<<: *PProviders, url: '', override: {additional-prefix: '[BV] '}}
-  BW: {<<: *PProviders, url: '', override: {additional-prefix: '[BW] '}}
-  BX: {<<: *PProviders, url: '', override: {additional-prefix: '[BX] '}}
-  BY: {<<: *PProviders, url: '', override: {additional-prefix: '[BY] '}}
+  BT: {<<: *PProviders, url: 'https://www.yivpn.com/s/f5fc3edaf58652231cd4acbc800a5674', override: {additional-prefix: '[BT] '}}
+  BU: {<<: *PProviders, url: 'https://www.yivpn.com/s/3972796331242a046257a1833a18147e', override: {additional-prefix: '[BU] '}}
+  BV: {<<: *PProviders, url: 'https://www.yivpn.com/s/8f2373d5e1ff18b6cf961a6fd4333b58', override: {additional-prefix: '[BV] '}}
+  BW: {<<: *PProviders, url: 'https://www.yivpn.com/s/af47e2ba66a95665faf243b4c5b6bc6e', override: {additional-prefix: '[BW] '}}
+  BX: {<<: *PProviders, url: 'https://www.yivpn.com/s/17f2788f3c4cfb007e66e725194e3228', override: {additional-prefix: '[BX] '}}
+  BY: {<<: *PProviders, url: 'https://www.yivpn.com/s/013b93ba2ca289a4924eb32685f2d808', override: {additional-prefix: '[BY] '}}
   BZ: {<<: *PProviders, url: '', override: {additional-prefix: '[BZ] '}}
   CA: {<<: *PProviders, url: '', override: {additional-prefix: '[CA] '}}
   CB: {<<: *PProviders, url: '', override: {additional-prefix: '[CB] '}}
