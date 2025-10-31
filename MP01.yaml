@@ -111,22 +111,22 @@ proxy-providers:
   BG: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsl.zzxi.de%2Fshanlian%2F1dcbc45b123843fbbf59cfbd722291d3&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BG] '}}
   BH: {<<: *PProviders, url: 'https://paste.myconan.net/615691-3eaef8dd.txt', override: {additional-prefix: '[BH] '}}
   BI: {<<: *PProviders, url: 'http://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[BI] '}}
-  BJ: {<<: *PProviders, url: 'https://www.yivpn.com/s/9445460a9a6dc1887d1e419417d44f4f', override: {additional-prefix: '[BJ] '}}
-  BK: {<<: *PProviders, url: 'https://www.yivpn.com/s/355bec9b2b972ec26092375875039b5b', override: {additional-prefix: '[BK] '}}
-  BL: {<<: *PProviders, url: 'https://www.yivpn.com/s/6f96ad4ecb14464464a5567e547f69d0', override: {additional-prefix: '[BL] '}}
-  BM: {<<: *PProviders, url: 'https://www.yivpn.com/s/e686a679acdf1224dc5f18b89869f534', override: {additional-prefix: '[BM] '}}
-  BN: {<<: *PProviders, url: 'https://www.yivpn.com/s/72c22ecce386a0df0592f8682c6a67cb', override: {additional-prefix: '[BN] '}}
-  BO: {<<: *PProviders, url: 'https://www.yivpn.com/s/c1aa9fbaa195caa332627d2c874a3e5f', override: {additional-prefix: '[BO] '}}
-  BP: {<<: *PProviders, url: 'https://www.yivpn.com/s/6615ba246934b7d6b22b45f9888d60eb', override: {additional-prefix: '[BP] '}}
-  BQ: {<<: *PProviders, url: 'https://www.yivpn.com/s/c7ad60edd7426c3612b3864eb0a30c21', override: {additional-prefix: '[BQ] '}}
-  BR: {<<: *PProviders, url: 'https://www.yivpn.com/s/f23889fdf9d7bd5f22771e6ac1137000', override: {additional-prefix: '[BR] '}}
-  BS: {<<: *PProviders, url: 'https://www.yivpn.com/s/9c6f0d155249750cfab5f71ebcc8566f', override: {additional-prefix: '[BS] '}}
-  BT: {<<: *PProviders, url: 'https://www.yivpn.com/s/f5fc3edaf58652231cd4acbc800a5674', override: {additional-prefix: '[BT] '}}
-  BU: {<<: *PProviders, url: 'https://www.yivpn.com/s/3972796331242a046257a1833a18147e', override: {additional-prefix: '[BU] '}}
-  BV: {<<: *PProviders, url: 'https://www.yivpn.com/s/8f2373d5e1ff18b6cf961a6fd4333b58', override: {additional-prefix: '[BV] '}}
-  BW: {<<: *PProviders, url: 'https://www.yivpn.com/s/af47e2ba66a95665faf243b4c5b6bc6e', override: {additional-prefix: '[BW] '}}
-  BX: {<<: *PProviders, url: 'https://www.yivpn.com/s/17f2788f3c4cfb007e66e725194e3228', override: {additional-prefix: '[BX] '}}
-  BY: {<<: *PProviders, url: 'https://www.yivpn.com/s/013b93ba2ca289a4924eb32685f2d808', override: {additional-prefix: '[BY] '}}
+  BJ: {<<: *PProviders, url: '', override: {additional-prefix: '[BJ] '}}
+  BK: {<<: *PProviders, url: '', override: {additional-prefix: '[BK] '}}
+  BL: {<<: *PProviders, url: '', override: {additional-prefix: '[BL] '}}
+  BM: {<<: *PProviders, url: '', override: {additional-prefix: '[BM] '}}
+  BN: {<<: *PProviders, url: '', override: {additional-prefix: '[BN] '}}
+  BO: {<<: *PProviders, url: '', override: {additional-prefix: '[BO] '}}
+  BP: {<<: *PProviders, url: '', override: {additional-prefix: '[BP] '}}
+  BQ: {<<: *PProviders, url: '', override: {additional-prefix: '[BQ] '}}
+  BR: {<<: *PProviders, url: '', override: {additional-prefix: '[BR] '}}
+  BS: {<<: *PProviders, url: '', override: {additional-prefix: '[BS] '}}
+  BT: {<<: *PProviders, url: '', override: {additional-prefix: '[BT] '}}
+  BU: {<<: *PProviders, url: '', override: {additional-prefix: '[BU] '}}
+  BV: {<<: *PProviders, url: '', override: {additional-prefix: '[BV] '}}
+  BW: {<<: *PProviders, url: '', override: {additional-prefix: '[BW] '}}
+  BX: {<<: *PProviders, url: '', override: {additional-prefix: '[BX] '}}
+  BY: {<<: *PProviders, url: '', override: {additional-prefix: '[BY] '}}
   BZ: {<<: *PProviders, url: '', override: {additional-prefix: '[BZ] '}}
   CA: {<<: *PProviders, url: '', override: {additional-prefix: '[CA] '}}
   CB: {<<: *PProviders, url: '', override: {additional-prefix: '[CB] '}}
