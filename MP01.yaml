@@ -111,16 +111,16 @@ proxy-providers:
   BG: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsl.zzxi.de%2Fshanlian%2F1dcbc45b123843fbbf59cfbd722291d3&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BG] '}}
   BH: {<<: *PProviders, url: 'https://paste.myconan.net/615691-3eaef8dd.txt', override: {additional-prefix: '[BH] '}}
   BI: {<<: *PProviders, url: 'http://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[BI] '}}
-  BJ: {<<: *PProviders, url: '', override: {additional-prefix: '[BJ] '}}
-  BK: {<<: *PProviders, url: '', override: {additional-prefix: '[BK] '}}
-  BL: {<<: *PProviders, url: '', override: {additional-prefix: '[BL] '}}
-  BM: {<<: *PProviders, url: '', override: {additional-prefix: '[BM] '}}
-  BN: {<<: *PProviders, url: '', override: {additional-prefix: '[BN] '}}
-  BO: {<<: *PProviders, url: '', override: {additional-prefix: '[BO] '}}
-  BP: {<<: *PProviders, url: '', override: {additional-prefix: '[BP] '}}
-  BQ: {<<: *PProviders, url: '', override: {additional-prefix: '[BQ] '}}
-  BR: {<<: *PProviders, url: '', override: {additional-prefix: '[BR] '}}
-  BS: {<<: *PProviders, url: '', override: {additional-prefix: '[BS] '}}
+  BJ: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=70c8282feed1b74cdbbfe1cb2726ec5b', override: {additional-prefix: '[BJ] '}}
+  BK: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=24ce66929adf808431cc1d97285b5562', override: {additional-prefix: '[BK] '}}
+  BL: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=427f73aec2cb64ec24edb9ebaba86eed', override: {additional-prefix: '[BL] '}}
+  BM: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=27a562c9676852495256d7a9a352f7a5', override: {additional-prefix: '[BM] '}}
+  BN: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=3beb21fe2b302986ff70143ad3bfd8b5', override: {additional-prefix: '[BN] '}}
+  BO: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=cf12762fed8747835f2aec67fed51bca', override: {additional-prefix: '[BO] '}}
+  BP: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=a319560ff462649fdf7cd4ef1202c6d9', override: {additional-prefix: '[BP] '}}
+  BQ: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=4f83f0e4cdeffbaa8e2c864b5030d7b8', override: {additional-prefix: '[BQ] '}}
+  BR: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=5c78b9e310c7c9fc801a15d8b47bcd4b', override: {additional-prefix: '[BR] '}}
+  BS: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=27a841618454aa4fef4966bc6ee9f2e0', override: {additional-prefix: '[BS] '}}
   BT: {<<: *PProviders, url: '', override: {additional-prefix: '[BT] '}}
   BU: {<<: *PProviders, url: '', override: {additional-prefix: '[BU] '}}
   BV: {<<: *PProviders, url: '', override: {additional-prefix: '[BV] '}}
