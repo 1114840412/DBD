@@ -53,9 +53,7 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 # 注意：请提供您的机场订阅链接，每个链接一行，并为每个机场命名，末尾的[A]为每个节点添加机场名称前缀，可自定义
 proxy-providers:
   C: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcn.mfxy.store%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D2cd2c05fb6500edd4210b46e3a597fdf%26flag%3Dshadowrocket&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[C] '}}
-  D: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcheckhere.top%2Flink%2FWS54d43fPLxEpRog%3Flist%3Dshadowrocket&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[D] '}}
   E: {<<: *PProviders, url: 'https://ghfast.top/https://raw.githubusercontent.com/sadietarasa/VOF-OvercomingGFW/refs/heads/main/here/10.15.yaml', override: {additional-prefix: '[E] '}}
-  F: {<<: *PProviders, url: 'https://s1.byte77.com/api/v1/client/subscribe?token=ce8bef8c67c46cee338654c46945cc81', override: {additional-prefix: '[F] '}}
   G: {<<: *PProviders, url: 'https://yunshuda66.top/s/f950113ad58c1e418cf511fd0fca9dd8', override: {additional-prefix: '[G] '}}
   H: {<<: *PProviders, url: 'https://sub.popcorn.pics/popcorn/81da9062c7dba0648dc12934b8e8668f', override: {additional-prefix: '[H] '}}
   I: {<<: *PProviders, url: 'https://cfsub.pcbean.qzz.io/profiles/moontv', override: {additional-prefix: '[I] '}}
