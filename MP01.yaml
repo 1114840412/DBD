@@ -74,7 +74,7 @@ proxy-providers:
   X: {<<: *PProviders, url: 'https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml', override: {additional-prefix: '[X] '}}        
   Y: {<<: *PProviders, url: 'https://v1.mk/XoYJLr0', override: {additional-prefix: '[Y] '}}
   Z: {<<: *PProviders, url: 'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml', override: {additional-prefix: '[Z] '}}
-  AA: {<<: *PProviders, url: '', override: {additional-prefix: '[AA] '}}
+  AA: {<<: *PProviders, url: 'https://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[AA] '}}
   AB: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[AB] '}}
   AC: {<<: *PProviders, url: 'https://www.yfjc.xyz/api/v1/client/subscribe?token=84f71bcce2dafaa39fc101dc60292c93&flag=meta', override: {additional-prefix: '[AC] '}}
   AD: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsub.lzjbaby.com%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AD] '}}
