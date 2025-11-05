@@ -73,7 +73,6 @@ proxy-providers:
   W: {<<: *PProviders, url: 'https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml', override: {additional-prefix: '[W] '}}
   X: {<<: *PProviders, url: 'https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml', override: {additional-prefix: '[X] '}}        
   Y: {<<: *PProviders, url: 'https://v1.mk/XoYJLr0', override: {additional-prefix: '[Y] '}}
-  Z: {<<: *PProviders, url: 'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml', override: {additional-prefix: '[Z] '}}
   AA: {<<: *PProviders, url: 'https://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[AA] '}}
   AB: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[AB] '}}
   AC: {<<: *PProviders, url: '', override: {additional-prefix: '[AC] '}}
