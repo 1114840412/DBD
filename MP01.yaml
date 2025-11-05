@@ -84,12 +84,12 @@ proxy-providers:
   AI: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/74297a5d6bde7026a43324679bb9417b', override: {additional-prefix: '[AI] '}}
   AJ: {<<: *PProviders, url: 'https://v1.mk/A2WFY1i', override: {additional-prefix: '[AJ] '}}
   AK: {<<: *PProviders, url: 'https://zh.momobaby.org/download/clash/1d1e4472f39a060497beaa62e68ca090b49b058611232e485e88d8ca00df4be3?config_name=LiNigori369-2', override: {additional-prefix: '[AK] '}}
-  AL: {<<: *PProviders, url: 'https://paste.myconan.net/614692-f64dc482.txt', override: {additional-prefix: '[AL] '}}
-  AM: {<<: *PProviders, url: 'https://paste.myconan.net/614693-22cafbef.txt', override: {additional-prefix: '[AM] '}}
-  AN: {<<: *PProviders, url: 'https://paste.myconan.net/614694-a4c257b1.txt', override: {additional-prefix: '[AN] '}}
-  AO: {<<: *PProviders, url: 'https://paste.myconan.net/614695-18708855.txt', override: {additional-prefix: '[AO] '}}
-  AP: {<<: *PProviders, url: 'https://paste.myconan.net/614696-8a2f2b49.txt', override: {additional-prefix: '[AP] '}}
-  AQ: {<<: *PProviders, url: 'https://paste.myconan.net/614698-e274bc27.txt', override: {additional-prefix: '[AQ] '}}
+  AL: {<<: *PProviders, url: '', override: {additional-prefix: '[AL] '}}
+  AM: {<<: *PProviders, url: '', override: {additional-prefix: '[AM] '}}
+  AN: {<<: *PProviders, url: '', override: {additional-prefix: '[AN] '}}
+  AO: {<<: *PProviders, url: '', override: {additional-prefix: '[AO] '}}
+  AP: {<<: *PProviders, url: '', override: {additional-prefix: '[AP] '}}
+  AQ: {<<: *PProviders, url: '', override: {additional-prefix: '[AQ] '}}
   AR: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=86f0edc5e6dd9be0baba5f3232bd4fa5', override: {additional-prefix: '[AR] '}}
   AS: {<<: *PProviders, url: 'https://www.selom.xyz/api/v1/client/subscribe?token=67c236e6e526cbf93afcc4b1a2cc2575', override: {additional-prefix: '[AS] '}}
   AT: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=138d50afae8de679a8d73214f070d4ba', override: {additional-prefix: '[AT] '}}
