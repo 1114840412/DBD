@@ -76,12 +76,12 @@ proxy-providers:
   Z: {<<: *PProviders, url: 'https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml', override: {additional-prefix: '[Z] '}}
   AA: {<<: *PProviders, url: 'https://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[AA] '}}
   AB: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[AB] '}}
-  AC: {<<: *PProviders, url: 'https://www.yfjc.xyz/api/v1/client/subscribe?token=84f71bcce2dafaa39fc101dc60292c93&flag=meta', override: {additional-prefix: '[AC] '}}
-  AD: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsub.lzjbaby.com%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AD] '}}
+  AC: {<<: *PProviders, url: '', override: {additional-prefix: '[AC] '}}
+  AD: {<<: *PProviders, url: '', override: {additional-prefix: '[AD] '}}
   AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fzrf.zrf.me%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
   AF: {<<: *PProviders, url: '', override: {additional-prefix: '[AF] '}}
   AG: {<<: *PProviders, url: '', override: {additional-prefix: '[AG] '}}
-  AH: {<<: *PProviders, url: 'https://sub.dmit.dpdns.org/share/sub/dingyue_Center_glados1year?token=d75zJ3YqbatIbr_1Hj9sh', override: {additional-prefix: '[AH] '}}
+  AH: {<<: *PProviders, url: '', override: {additional-prefix: '[AH] '}}
   AI: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/74297a5d6bde7026a43324679bb9417b', override: {additional-prefix: '[AI] '}}
   AJ: {<<: *PProviders, url: 'https://v1.mk/A2WFY1i', override: {additional-prefix: '[AJ] '}}
   AK: {<<: *PProviders, url: 'https://zh.momobaby.org/download/clash/1d1e4472f39a060497beaa62e68ca090b49b058611232e485e88d8ca00df4be3?config_name=LiNigori369-2', override: {additional-prefix: '[AK] '}}
@@ -151,7 +151,7 @@ proxy-providers:
   CW: {<<: *PProviders, url: '', override: {additional-prefix: '[CW] '}}
   CX: {<<: *PProviders, url: '', override: {additional-prefix: '[CX] '}}
   CY: {<<: *PProviders, url: '', override: {additional-prefix: '[CY] '}}
-  CZ: {<<: *PProviders, url: '', override: {additional-prefix: '[CZ] '}}
+  CZ: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsub.lzjbaby.com%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CZ] '}}
 # 全局配置
 port: 7890
 socks-port: 7891
