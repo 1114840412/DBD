@@ -79,7 +79,7 @@ proxy-providers:
   AD: {<<: *PProviders, url: 'https://789.st/xq0u6Nk', override: {additional-prefix: '[AD] '}}
   AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fzrf.zrf.me%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
   AF: {<<: *PProviders, url: 'https://dlam.renyi-men.cc/share/sub/%E5%85%AC%E7%9B%8ACloud?token=jx3PuyZ2v0NA8Odu_KC48', override: {additional-prefix: '[AF] '}}
-  AG: {<<: *PProviders, url: '', override: {additional-prefix: '[AG] '}}
+  AG: {<<: *PProviders, url: 'https://xn--cp3a08l.com/api/v1/client/subscribe?token=7986870018b77311218ee71aa655dba3', override: {additional-prefix: '[AG] '}}
   AH: {<<: *PProviders, url: '', override: {additional-prefix: '[AH] '}}
   AI: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/74297a5d6bde7026a43324679bb9417b', override: {additional-prefix: '[AI] '}}
   AJ: {<<: *PProviders, url: 'https://v1.mk/A2WFY1i', override: {additional-prefix: '[AJ] '}}
