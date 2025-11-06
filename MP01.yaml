@@ -80,7 +80,7 @@ proxy-providers:
   AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fzrf.zrf.me%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
   AF: {<<: *PProviders, url: 'https://dlam.renyi-men.cc/share/sub/%E5%85%AC%E7%9B%8ACloud?token=jx3PuyZ2v0NA8Odu_KC48', override: {additional-prefix: '[AF] '}}
   AG: {<<: *PProviders, url: 'https://xn--cp3a08l.com/api/v1/client/subscribe?token=7986870018b77311218ee71aa655dba3', override: {additional-prefix: '[AG] '}}
-  AH: {<<: *PProviders, url: '', override: {additional-prefix: '[AH] '}}
+  AH: {<<: *PProviders, url: 'https://aat.342579.xyz/s/4b82b4445b8327397b24066981dc75bb', override: {additional-prefix: '[AH] '}}
   AI: {<<: *PProviders, url: 'https://er.lemaodydayu.top/s/74297a5d6bde7026a43324679bb9417b', override: {additional-prefix: '[AI] '}}
   AJ: {<<: *PProviders, url: 'https://v1.mk/A2WFY1i', override: {additional-prefix: '[AJ] '}}
   AK: {<<: *PProviders, url: 'https://zh.momobaby.org/download/clash/1d1e4472f39a060497beaa62e68ca090b49b058611232e485e88d8ca00df4be3?config_name=LiNigori369-2', override: {additional-prefix: '[AK] '}}
