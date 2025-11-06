@@ -149,7 +149,7 @@ proxy-providers:
   CV: {<<: *PProviders, url: '', override: {additional-prefix: '[CV] '}}
   CW: {<<: *PProviders, url: '', override: {additional-prefix: '[CW] '}}
   CX: {<<: *PProviders, url: '', override: {additional-prefix: '[CX] '}}
-  CY: {<<: *PProviders, url: '', override: {additional-prefix: '[CY] '}}
+  CY: {<<: *PProviders, url: 'https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/clash.yaml', override: {additional-prefix: '[CY] '}}
   CZ: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsub.lzjbaby.com%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CZ] '}}
 # 全局配置
 port: 7890
