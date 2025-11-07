@@ -86,7 +86,7 @@ proxy-providers:
   AK: {<<: *PProviders, url: 'https://zh.momobaby.org/download/clash/1d1e4472f39a060497beaa62e68ca090b49b058611232e485e88d8ca00df4be3?config_name=LiNigori369-2', override: {additional-prefix: '[AK] '}}
   AL: {<<: *PProviders, url: 'https://536caa32-1590-4c7a-a3e8-d69d5a84b983.9674021.xyz/Abyss/f56b02c2f088163cff68fec5375a8215', override: {additional-prefix: '[AL] '}}
   AM: {<<: *PProviders, url: 'https://7m9gi9norz.1095813.xyz/api/v1/client/subscribe?token=124a0fe158836bbe92bbd4b5895855ba', override: {additional-prefix: '[AM] '}}
-  AN: {<<: *PProviders, url: '', override: {additional-prefix: '[AN] '}}
+  AN: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https://ghelper.me/clash/dea2870d495e3f1ba377249216ca799a&insert=false&config=https://raw.githubusercontent.com/justdoiting/ClashRule/main/GeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AN] '}}
   AO: {<<: *PProviders, url: '', override: {additional-prefix: '[AO] '}}
   AP: {<<: *PProviders, url: '', override: {additional-prefix: '[AP] '}}
   AQ: {<<: *PProviders, url: '', override: {additional-prefix: '[AQ] '}}
