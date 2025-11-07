@@ -87,8 +87,8 @@ proxy-providers:
   AL: {<<: *PProviders, url: 'https://536caa32-1590-4c7a-a3e8-d69d5a84b983.9674021.xyz/Abyss/f56b02c2f088163cff68fec5375a8215', override: {additional-prefix: '[AL] '}}
   AM: {<<: *PProviders, url: 'https://7m9gi9norz.1095813.xyz/api/v1/client/subscribe?token=124a0fe158836bbe92bbd4b5895855ba', override: {additional-prefix: '[AM] '}}
   AN: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https://ghelper.me/clash/dea2870d495e3f1ba377249216ca799a&insert=false&config=https://raw.githubusercontent.com/justdoiting/ClashRule/main/GeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AN] '}}
-  AO: {<<: *PProviders, url: '', override: {additional-prefix: '[AO] '}}
-  AP: {<<: *PProviders, url: '', override: {additional-prefix: '[AP] '}}
+  AO: {<<: *PProviders, url: 'https://8016848d-f57e-44c1-9530-fa5779d9466a.9674021.xyz/Abyss/3b9900c8c539937a417d155719e53d3e', override: {additional-prefix: '[AO] '}}
+  AP: {<<: *PProviders, url: 'https://b25815e9-e0de-4052-9420-42b922d27db1.9674021.xyz/Abyss/bb190ee5339ed408994a2d1f9ce2d801', override: {additional-prefix: '[AP] '}}
   AQ: {<<: *PProviders, url: '', override: {additional-prefix: '[AQ] '}}
   AR: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=86f0edc5e6dd9be0baba5f3232bd4fa5', override: {additional-prefix: '[AR] '}}
   AS: {<<: *PProviders, url: 'https://www.selom.xyz/api/v1/client/subscribe?token=67c236e6e526cbf93afcc4b1a2cc2575', override: {additional-prefix: '[AS] '}}
