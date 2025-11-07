@@ -72,7 +72,6 @@ proxy-providers:
   V: {<<: *PProviders, url: 'https://link.dingyueapi.net/api/v1/client/subscribe?token=3a27110128832cdc2cc52a81f4de5824', override: {additional-prefix: '[V] '}}
   W: {<<: *PProviders, url: 'https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml', override: {additional-prefix: '[W] '}}
   X: {<<: *PProviders, url: 'https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml', override: {additional-prefix: '[X] '}}        
-  Y: {<<: *PProviders, url: 'https://v1.mk/XoYJLr0', override: {additional-prefix: '[Y] '}}
   AA: {<<: *PProviders, url: 'https://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[AA] '}}
   AB: {<<: *PProviders, url: 'https://sub.pusytroller.cf', override: {additional-prefix: '[AB] '}}
   AC: {<<: *PProviders, url: 'https://106.75.143.245/api/v1/client/subscribe?token=c8503d0d3c9c4e20a530e13edd852e2a', override: {additional-prefix: '[AC] '}}
