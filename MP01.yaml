@@ -108,7 +108,7 @@ proxy-providers:
   BH: {<<: *PProviders, url: 'https://paste.myconan.net/615691-3eaef8dd.txt', override: {additional-prefix: '[BH] '}}
   BI: {<<: *PProviders, url: 'http://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[BI] '}}
   BJ: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=http%3A%2F%2Fproxy.winniezz.top%3Ftoken%3DuYX4bzYqDZANCKOOxCiieHpSfiiwIb3MoC6A0crs5OA&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BJ] '}}
-  BK: {<<: *PProviders, url: '', override: {additional-prefix: '[BK] '}}
+  BK: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=http%3A%2F%2Fproxy.winniezz.top%3Ftoken%3Dk2Unk7ttWbpAOFY0jJaFH4iQgg-8r8rzTFxo-9mqO6s&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BK] '}}
   BL: {<<: *PProviders, url: '', override: {additional-prefix: '[BL] '}}
   BM: {<<: *PProviders, url: '', override: {additional-prefix: '[BM] '}}
   BN: {<<: *PProviders, url: '', override: {additional-prefix: '[BN] '}}
