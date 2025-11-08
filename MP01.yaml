@@ -112,7 +112,7 @@ proxy-providers:
   BL: {<<: *PProviders, url: 'https://sso.qing.to/api/v2/avatar/dbcc1980550752034db870059de592fe', override: {additional-prefix: '[BL] '}}
   BM: {<<: *PProviders, url: 'http://proxy.winniezz.top/?sharing=a389d7c070e85564e9203441eec28791&claim=c0f17c19a4c133d3cdb54ed7ffd8e167', override: {additional-prefix: '[BM] '}}
   BN: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fj.ltde.dpdns.org%2F70e8aaf9-3a4a-46b8-b0e4-beb45889de82%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BN] '}}
-  BO: {<<: *PProviders, url: '', override: {additional-prefix: '[BO] '}}
+  BO: {<<: *PProviders, url: 'http://proxy.winniezz.top?token=mTRYbRclnagfZb2xxRfUgREeS-XOsFMEVJ1dSHIl9Zc', override: {additional-prefix: '[BO] '}}
   BP: {<<: *PProviders, url: '', override: {additional-prefix: '[BP] '}}
   BQ: {<<: *PProviders, url: '', override: {additional-prefix: '[BQ] '}}
   BR: {<<: *PProviders, url: '', override: {additional-prefix: '[BR] '}}
