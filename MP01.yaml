@@ -144,9 +144,9 @@ proxy-providers:
   CR: {<<: *PProviders, url: '', override: {additional-prefix: '[CR] '}}
   CS: {<<: *PProviders, url: '', override: {additional-prefix: '[CS] '}}
   CT: {<<: *PProviders, url: '', override: {additional-prefix: '[CT] '}}
-  CU: {<<: *PProviders, url: '', override: {additional-prefix: '[CU] '}}
-  CV: {<<: *PProviders, url: '', override: {additional-prefix: '[CV] '}}
-  CW: {<<: *PProviders, url: '', override: {additional-prefix: '[CW] '}}
+  CU: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fgubai.dpdns.org%2F2a768a19-0255-8f39-ac48-896b2803bdd8%3Fb64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CU] '}}
+  CV: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcm2-bpg.ggff.net%2Fsub%3Ftoken%3Db4a7a58a27a4adc11fa952bfc5421866&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CV] '}}
+  CW: {<<: *PProviders, url: 'https://cm3-bpg.filegear-sg.me/sub?token=a7d583ad728822a2878f5fdf651065cd', override: {additional-prefix: '[CW] '}}
   CX: {<<: *PProviders, url: 'https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fea12188c.dbd123.pages.dev%2Fsub%2F86043693-94d8-47bc-bb2a-91037b298887%3Fformat%3Dclash&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true', override: {additional-prefix: '[CX] '}}
   CY: {<<: *PProviders, url: 'https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/clash.yaml', override: {additional-prefix: '[CY] '}}
   CZ: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fsub.lzjbaby.com%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CZ] '}}
