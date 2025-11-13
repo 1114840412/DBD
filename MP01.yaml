@@ -53,7 +53,7 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 # 注意：请提供您的机场订阅链接，每个链接一行，并为每个机场命名，末尾的[A]为每个节点添加机场名称前缀，可自定义
 proxy-providers:
   AA: {<<: *PProviders, url: 'https://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[AA] '}}
-  AB: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fssrsub%2Fssr%2Fmaster%2Fclash.yaml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AB] '}}
+  AB: {<<: *PProviders, url: '', override: {additional-prefix: '[AB] '}}
   AC: {<<: *PProviders, url: 'https://s1.byte11.com/api/v1/client/subscribe?token=95bab658fbeb82d8cf6902c706efaa0b', override: {additional-prefix: '[AC] '}}
   AD: {<<: *PProviders, url: 'https://789.st/xq0u6Nk', override: {additional-prefix: '[AD] '}}
   AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fzrf.zrf.me%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
