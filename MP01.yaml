@@ -54,7 +54,7 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 proxy-providers:
   AA: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=4198a5eb8698af56f743a737aec21fa6', override: {additional-prefix: '[AA] '}}
   AB: {<<: *PProviders, url: 'https://d41d8cd98f-1ytapi02.1ytsub.com/api/v1/client/subscribe?token=69033c832be5673d0f0c42853d7db067', override: {additional-prefix: '[AB] '}}
-  AC: {<<: *PProviders, url: '', override: {additional-prefix: '[AC] '}}
+  AC: {<<: *PProviders, url: 'https://swiftcore09.top/k7m9x2v8q4w1e6r3t5y7u2i0p8a6s9d1f4g7h3j0k8l5z9x2c4v7b6n0m3q1w8e5r2t?token=71e61719bd698590c160ff24a5ba2851', override: {additional-prefix: '[AC] '}}
   AD: {<<: *PProviders, url: '', override: {additional-prefix: '[AD] '}}
   AE: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fzrf.zrf.me%2Fsub%3Fuuid%3D86043693-94d8-47bc-bb2a-91037b298887%26encryption%3Dnone%26security%3Dtls%26sni%3Dea12188c.dbd123.pages.dev%26fp%3Drandomized%26type%3Dws%26host%3Dea12188c.dbd123.pages.dev%26path%3D%252F%253Fed%253D2048&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AE] '}}
   AF: {<<: *PProviders, url: '', override: {additional-prefix: '[AF] '}}
