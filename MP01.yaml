@@ -123,7 +123,7 @@ proxy-providers:
   CQ: {<<: *PProviders, url: '', override: {additional-prefix: '[CQ] '}}
   CR: {<<: *PProviders, url: '', override: {additional-prefix: '[CR] '}}
   CS: {<<: *PProviders, url: '', override: {additional-prefix: '[CS] '}}
-  CT: {<<: *PProviders, url: '', override: {additional-prefix: '[CT] '}}
+  CT: {<<: *PProviders, url: 'https://dash.pqjc.site/api/v1/client/subscribe?token=8bfd5a4ade334c341b1b319d42d8dd88', override: {additional-prefix: '[CT] '}}
   CU: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fgubai.dpdns.org%2F2a768a19-0255-8f39-ac48-896b2803bdd8%3Fb64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CU] '}}
   CV: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fcm2-bpg.ggff.net%2Fsub%3Ftoken%3Db4a7a58a27a4adc11fa952bfc5421866&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[CV] '}}
   CW: {<<: *PProviders, url: 'https://cm3-bpg.filegear-sg.me/sub?token=a7d583ad728822a2878f5fdf651065cd', override: {additional-prefix: '[CW] '}}
