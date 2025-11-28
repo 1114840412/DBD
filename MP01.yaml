@@ -73,8 +73,8 @@ proxy-providers:
   AS: {<<: *PProviders, url: 'https://s1.byte77.com/api/v1/client/subscribe?token=6e45a26c8dc60b9801ac0e65e643477d', override: {additional-prefix: '[AS] '}}
   AT: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=138d50afae8de679a8d73214f070d4ba', override: {additional-prefix: '[AT] '}}
   AU: {<<: *PProviders, url: 'https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=56df427d30f169ab0f52ae13634affa8', override: {additional-prefix: '[AU] '}}
-  AV: {<<: *PProviders, url: 'http://proxy.winniezz.top?token=gX_5YXsWTXXk96lKSBWqk2MNx2YR-Uy00qnI2J0l0M4', override: {additional-prefix: '[AV] '}}
-  AW: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fierboryt.spphhnhg.top%2Flink%2FWqkOeM4E8SrbcQOF%3Fsub%3D3&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[AW] '}}
+  AV: {<<: *PProviders, url: '', override: {additional-prefix: '[AV] '}}
+  AW: {<<: *PProviders, url: '', override: {additional-prefix: '[AW] '}}
   AX: {<<: *PProviders, url: 'https://dler.cloud/api/v3/download.getFile/ujVQKljB9oynSdg8P0rEH5FX?mu=smart&lv=2%7C3.gif', override: {additional-prefix: '[AX] '}}
   AY: {<<: *PProviders, url: 'https://lzsub.zzko.cn/ZZKOlpmkqGBzqHsr', override: {additional-prefix: '[AY] '}}
   AZ: {<<: *PProviders, url: 'https://sfj.sufujia.top/api/v1/client/subscribe?token=07be18a3002d2e6a4e316dfde08621c1', override: {additional-prefix: '[AZ] '}}
