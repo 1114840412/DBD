@@ -77,22 +77,22 @@ proxy-providers:
   AW: {<<: *PProviders, url: '', override: {additional-prefix: '[AW] '}}
   AX: {<<: *PProviders, url: 'https://dler.cloud/api/v3/download.getFile/ujVQKljB9oynSdg8P0rEH5FX?mu=smart&lv=2%7C3.gif', override: {additional-prefix: '[AX] '}}
   AY: {<<: *PProviders, url: 'https://lzsub.zzko.cn/ZZKOlpmkqGBzqHsr', override: {additional-prefix: '[AY] '}}
-  AZ: {<<: *PProviders, url: 'https://sfj.sufujia.top/api/v1/client/subscribe?token=07be18a3002d2e6a4e316dfde08621c1', override: {additional-prefix: '[AZ] '}}
+  AZ: {<<: *PProviders, url: '', override: {additional-prefix: '[AZ] '}}
   BA: {<<: *PProviders, url: '', override: {additional-prefix: '[BA] '}}
-  BB: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=936178a2c6cf520e0f51d45a8ca0d30d', override: {additional-prefix: '[BB] '}}
-  BC: {<<: *PProviders, url: 'https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=95cac6e470ef2aa23abb8b732f313176', override: {additional-prefix: '[BC] '}}
+  BB: {<<: *PProviders, url: '', override: {additional-prefix: '[BB] '}}
+  BC: {<<: *PProviders, url: '', override: {additional-prefix: '[BC] '}}
   BD: {<<: *PProviders, url: 'https://su.gwzxwk.com/api/v1/client/subscribe?token=c9ab9ea6efde376ef7e548989fa7ee06', override: {additional-prefix: '[BD] '}}
   BE: {<<: *PProviders, url: 'https://d1.dlsdist.net/api/v1/client/subscribe?token=08e83a5862ede37827c8f4a66711695a', override: {additional-prefix: '[BE] '}}
-  BF: {<<: *PProviders, url: 'http://8.134.181.161:12580/md5/t465ZofVbZSNA6Fs?clash=1', override: {additional-prefix: '[BF] '}}
+  BF: {<<: *PProviders, url: '', override: {additional-prefix: '[BF] '}}
   BG: {<<: *PProviders, url: '', override: {additional-prefix: '[BG] '}}
   BH: {<<: *PProviders, url: '', override: {additional-prefix: '[BH] '}}
   BI: {<<: *PProviders, url: 'http://162.19.79.201/s/cee957e29f8579f4a7e5ca9820b00032', override: {additional-prefix: '[BI] '}}
   BJ: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=http%3A%2F%2Fproxy.winniezz.top%3Ftoken%3DuYX4bzYqDZANCKOOxCiieHpSfiiwIb3MoC6A0crs5OA&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BJ] '}}
-  BK: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=http%3A%2F%2Fproxy.winniezz.top%3Ftoken%3Dk2Unk7ttWbpAOFY0jJaFH4iQgg-8r8rzTFxo-9mqO6s&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BK] '}}
+  BK: {<<: *PProviders, url: '', override: {additional-prefix: '[BK] '}}
   BL: {<<: *PProviders, url: 'https://sso.qing.to/api/v2/avatar/dbcc1980550752034db870059de592fe', override: {additional-prefix: '[BL] '}}
-  BM: {<<: *PProviders, url: 'http://proxy.winniezz.top/?sharing=a389d7c070e85564e9203441eec28791&claim=c0f17c19a4c133d3cdb54ed7ffd8e167', override: {additional-prefix: '[BM] '}}
+  BM: {<<: *PProviders, url: '', override: {additional-prefix: '[BM] '}}
   BN: {<<: *PProviders, url: 'https://api.ytools.cc/sub?target=clash&url=https%3A%2F%2Fj.ltde.dpdns.org%2F70e8aaf9-3a4a-46b8-b0e4-beb45889de82%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjustdoiting%2FClashRule%2Fmain%2FGeneralClashRule.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true', override: {additional-prefix: '[BN] '}}
-  BO: {<<: *PProviders, url: 'http://proxy.winniezz.top?token=mTRYbRclnagfZb2xxRfUgREeS-XOsFMEVJ1dSHIl9Zc', override: {additional-prefix: '[BO] '}}
+  BO: {<<: *PProviders, url: '', override: {additional-prefix: '[BO] '}}
   BP: {<<: *PProviders, url: '', override: {additional-prefix: '[BP] '}}
   BQ: {<<: *PProviders, url: '', override: {additional-prefix: '[BQ] '}}
   BR: {<<: *PProviders, url: '', override: {additional-prefix: '[BR] '}}
