@@ -52,7 +52,7 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 # 远程订阅组
 # 注意：请提供您的机场订阅链接，每个链接一行，并为每个机场命名，末尾的[A]为每个节点添加机场名称前缀，可自定义
 proxy-providers:
-  AA: {<<: *PProviders, url: 'https://wgabcs.lobonet.cn/mdet/wdfs/heuy/?token=4198a5eb8698af56f743a737aec21fa6', override: {additional-prefix: '[AA] '}}
+  AA: {<<: *PProviders, url: '', override: {additional-prefix: '[AA] '}}
   AB: {<<: *PProviders, url: 'https://d41d8cd98f-1ytapi02.1ytsub.com/api/v1/client/subscribe?token=69033c832be5673d0f0c42853d7db067', override: {additional-prefix: '[AB] '}}
   AC: {<<: *PProviders, url: 'https://swiftcore09.top/k7m9x2v8q4w1e6r3t5y7u2i0p8a6s9d1f4g7h3j0k8l5z9x2c4v7b6n0m3q1w8e5r2t?token=71e61719bd698590c160ff24a5ba2851', override: {additional-prefix: '[AC] '}}
   AD: {<<: *PProviders, url: '', override: {additional-prefix: '[AD] '}}
